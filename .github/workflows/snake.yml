@@ -1,0 +1,31 @@
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nugusamulatu67-ux
+          outputs: |
+            dist/github-snake.svg?color_snake=%237B2FF7&color_dots=%230D1117,%231B2450,%233C55A5,%2300A6D6,%2300D4FF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300D4FF
+
+      - name: Publish generated SVG files
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
