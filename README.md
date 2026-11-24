@@ -1,288 +1,450 @@
-# 👋 Hello, I'm Nugusa Mulatu
+<!-- ===================================================== -->
+<!--                 NUGUSA MULATU                         -->
+<!--             GITHUB PROFILE README                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090979,35:512DA8,70:7B2FF7,100:00D4FF&text=NUGUSA%20MULATU&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CREATIVITY%20%7C%20INNOVATION&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<!-- ANIMATED HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:7B2FF7,100:00D4FF&height=230&section=header&text=NUGUSA%20MULATU&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+%F0%9F%8E%93;Building+Real+World+Software+Solutions+%F0%9F%92%BB;Exploring+AI%2C+ML+%26+Computer+Vision+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Animated introduction"/>
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=850&height=60&lines=Welcome+to+my+GitHub+universe!;I+Build+Software+That+Solves+Real+Problems.;Web+Development+%7C+Python+%7C+C%2B%2B;Exploring+Artificial+Intelligence+%26+Computer+Vision;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/nugusamulatu67-ux">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=nugusamulatu67-ux&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITS" />
-
-<br/><br/>
-
-**I don't just want to use technology. I want to understand it, build it, and make it useful.**
+<img src="https://komarev.com/ghpvc/?username=nugusamulatu67-ux&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nugusamulatu67-ux?label=FOLLOWERS&style=for-the-badge&color=00D4FF&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/nugusamulatu67-ux?label=TOTAL%20STARS&style=for-the-badge&color=7B2FF7&labelColor=111827" />
 
 </div>
 
 ---
 
-## ◈ 01 — About Me
+<!-- ABOUT ME -->
 
-Hey! I'm **Nugusa**, a Software Engineering student at **Jimma Institute of Technology, Ethiopia**.
+<h2 align="center">✦ WHO AM I?</h2>
 
-I'm passionate about building software, exploring emerging technologies, and understanding the engineering principles behind the systems we use every day.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My interests span across software development, artificial intelligence, machine learning, computer vision, cybersecurity, and computer science fundamentals.
+Hello! I'm **Nugusa Mulatu**, a Software Engineering student at **Jimma Institute of Technology, Ethiopia**.
 
-- 🎓 Software Engineering student.
-- 💻 Building practical software applications.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 👁️ Interested in Computer Vision and intelligent systems.
-- 🌐 Developing web-based solutions.
-- 🔐 Learning about cybersecurity and secure software engineering.
-- 🌱 Continuously improving through experimentation and project building.
+I'm passionate about technology, programming, software architecture, and building digital solutions that make a difference.
 
-**My philosophy:** Learn the fundamentals. Build real things. Solve meaningful problems.
+I believe the best way to become a better developer is not just to consume tutorials, but to understand the fundamentals, experiment with ideas, and build real-world applications.
 
----
+### 🚀 My Developer Identity
 
-## ◈ 02 — My Technology Ecosystem
+- 🎓 Software Engineering student at Jimma Institute of Technology.
+- 💻 Interested in building modern software applications.
+- 🌐 Exploring frontend and backend development.
+- 🧠 Working toward expertise in AI, Machine Learning, and Computer Vision.
+- 🔐 Interested in cybersecurity and software security.
+- 🗄️ Exploring database engineering and system design.
+- ⚡ Learning through projects, experimentation, and continuous improvement.
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php&perline=7" />
-
-### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&perline=7" />
-
-### Backend Engineering
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,fastapi&perline=6" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase&perline=6" />
-
-### Artificial Intelligence & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4" />
-
-### Development & Productivity Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,pycharm,postman,notion&perline=8" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,vercel&perline=7" />
-
-### Operating Systems & Environments
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,bash&perline=6" />
-
-</div>
+<br clear="right"/>
 
 ---
 
-## ◈ 03 — Selected Projects
+<!-- TECHNOLOGY STACK -->
 
-<div align="center">
+<h2 align="center">✦ TECHNOLOGY ARSENAL</h2>
 
-### BUILDING IDEAS INTO REAL EXPERIENCES
+<p align="center">
+  <i>Technologies I use, study, and explore on my software engineering journey.</i>
+</p>
 
-*Explore some of my deployed projects and experiments.*
+### 01. Programming Languages
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,bash&perline=9" />
+</p>
 
-<table>
+### 02. Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind,sass&perline=8" />
+</p>
+
+### 03. Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java&perline=7" />
+</p>
+
+### 04. Databases & Data Management
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=7" />
+</p>
+
+### 05. Artificial Intelligence & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,jupyter&perline=7" />
+</p>
+
+### 06. Development Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,github,git,postman&perline=7" />
+</p>
+
+### 07. Operating Systems & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,bash&perline=7" />
+</p>
+
+### 08. Cloud, Hosting & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,netlify,render,docker&perline=7" />
+</p>
+
+### 09. Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Architecture-7B2FF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Structures-00A6D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-7B2FF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-00A6D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-7B2FF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database_Design-00A6D6?style=flat-square"/>
+</p>
+
+---
+
+<!-- PROJECT SHOWCASE -->
+
+<h2 align="center">✦ FEATURED PROJECTS</h2>
+
+<p align="center">
+  <i>Ideas transformed into working digital experiences.</i>
+</p>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ EZER Tech</h3>
-
 <div align="center">
 
+### 🌐 EZER TECH SOLUTIONS
+
 <a href="https://ezer-tech.space-z.ai/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-A computer software services platform offering software installation, genuine licensing, data recovery, repair and maintenance services.
+A software services platform focused on practical technology solutions.
 
-**Focus areas**
-- Service catalog and ordering
-- User experience
-- Digital service management
+**Project areas**
+- Operating system installation
+- Software licensing
+- Data recovery
+- Computer repair and maintenance
+- Technical service requests
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-SOFTWARE_SERVICES-7B2FF7?style=flat-square"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🍽️ Shambu Fast Food</h3>
-
 <div align="center">
 
+### 🍽️ SHAMBU FAST FOOD
+
 <a href="https://shambu-fastfood.space-z.ai/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-00A6D6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-A restaurant ordering website demo featuring menu browsing, food categories and an online ordering experience.
+A restaurant-oriented web project featuring a digital dining and ordering experience.
 
-**Focus areas**
-- Restaurant digital experience
-- Menu presentation
-- Online ordering interface
+**Project areas**
+- Restaurant menu presentation
+- Food browsing
+- Online ordering experience
+- Digital restaurant interface
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-RESTAURANT_WEB-00A6D6?style=flat-square"/>
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📺 TemariTube</h3>
-
 <div align="center">
 
+### 📚 TEMARITUBE
+
 <a href="https://temaritube.space-z.ai/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-An educational technology project and deployed web experiment.
+A deployed web application and part of my ongoing journey in building digital products.
 
-**Explore the live demo to discover the application.**
+**Project focus**
+- Web application development
+- Digital user experiences
+- Exploring practical product ideas
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-WEB_APPLICATION-7B2FF7?style=flat-square"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 TRANSLY</h3>
-
 <div align="center">
 
+### 🌍 TRANSLY
+
 <a href="https://a1sve9h48bz1-d.space-z.ai/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-4361EE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-00A6D6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-An AI-powered Ethiopian document translation project focused on making document translation more accessible.
+An AI-powered Ethiopian document translation project.
 
-**Focus areas**
-- Artificial intelligence
-- Document processing
+**Project focus**
+- Document translation
 - Language technology
+- AI-powered applications
+- Exploring language accessibility
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-AI_TRANSLATION-00A6D6?style=flat-square"/>
+</p>
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <b>More projects, experiments, and ideas are coming.</b>
+</p>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">✦ GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <i>A snapshot of my open-source activity and development journey.</i>
+</p>
+
 <div align="center">
 
-<a href="https://github.com/nugusamulatu67-ux?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/nugusamulatu67-ux">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nugusamulatu67-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&count_private=true" />
+</a>
+
+<a href="https://github.com/nugusamulatu67-ux">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugusamulatu67-ux&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
 </div>
 
----
-
-## ◈ 04 — GitHub Performance
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nugusamulatu67-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugusamulatu67-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=nugusamulatu67-ux&theme=tokyonight&hide_border=true&ring=7B2FF7&fire=00D4FF&currStreakLabel=00D4FF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=nugusamulatu67-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=00D4FF&currStreakLabel=00D4FF" />
 
 </div>
 
 ---
 
-## ◈ 05 — My 3D Contribution Universe
+<!-- 3D CONTRIBUTION CALENDAR -->
+
+<h2 align="center">✦ MY GITHUB CONTRIBUTION UNIVERSE</h2>
+
+<p align="center">
+  <i>Every contribution represents another step in the journey.</i>
+</p>
 
 <div align="center">
 
-**A three-dimensional visualization of my GitHub contribution journey.**
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar"/>
+<img width="100%" src="https://raw.githubusercontent.com/nugusamulatu67-ux/nugusamulatu67-ux/main/profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution calendar"/>
 
 </div>
 
 ---
 
-## ◈ 06 — Watch My Contributions Come Alive
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">✦ CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <i>Watch the snake travel through my GitHub contribution history!</i>
+</p>
 
 <div align="center">
-
-**An animated snake traveling through my GitHub contribution history.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nugusamulatu67-ux/nugusamulatu67-ux/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nugusamulatu67-ux/nugusamulatu67-ux/output/github-snake.svg"/>
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/nugusamulatu67-ux/nugusamulatu67-ux/output/github-snake.svg" width="100%"/>
+  <img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/nugusamulatu67-ux/nugusamulatu67-ux/output/github-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## ◈ 07 — GitHub Achievements
+<!-- TROPHIES -->
 
-<div align="center">
+<h2 align="center">✦ GITHUB TROPHIES</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nugusamulatu67-ux&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-## ◈ 08 — Detailed GitHub Insights
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Detailed GitHub metrics and activity" width="100%" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nugusamulatu67-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
 
 ---
 
-## ◈ 09 — The Road Ahead
+<!-- METRICS -->
 
-| Area | My Goal |
-|---|---|
-| 🧠 Computer Science | Strengthen algorithms, data structures and fundamentals |
-| 🤖 AI & ML | Build intelligent applications and ML projects |
-| 👁️ Computer Vision | Develop image-processing and vision-based systems |
-| 🌐 Software Engineering | Build robust, maintainable applications |
-| 🔐 Cybersecurity | Understand security principles and secure systems |
-| ☁️ Cloud & DevOps | Learn deployment, infrastructure and automation |
-| 🌍 Open Source | Collaborate and contribute to meaningful projects |
+<h2 align="center">✦ DEVELOPER METRICS</h2>
+
+<p align="center">
+  <i>A deeper look into my GitHub development activity.</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+</p>
 
 ---
 
-## ◈ 10 — Let's Connect
+<!-- CURRENT JOURNEY -->
+
+<h2 align="center">✦ WHAT I'M CURRENTLY EXPLORING</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Artificial Intelligence
+
+- Python for AI development
+- Machine Learning fundamentals
+- Neural networks
+- Computer Vision
+- AI-powered applications
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Full-stack development
+- Software architecture
+- Database engineering
+- Data Structures and Algorithms
+- Secure software development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Technologies
+
+- Modern frontend development
+- Backend application design
+- REST APIs
+- Responsive interfaces
+- Deployment and hosting
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Continuous Learning
+
+- Problem solving
+- Open-source development
+- Building practical projects
+- Exploring emerging technologies
+- Improving engineering practices
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- DEVELOPER MINDSET -->
+
+<h2 align="center">✦ MY DEVELOPER MINDSET</h2>
 
 <div align="center">
 
-**Good ideas become better when people build together.**
-
-<a href="https://github.com/nugusamulatu67-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%"/>
 
 <br/><br/>
 
-*Interested in software development, AI, technology, or collaboration? Let's connect.*
+| Principle | What it means to me |
+|:---|:---|
+| 📖 Learn | Understand the fundamentals. |
+| 🛠️ Build | Turn knowledge into real projects. |
+| 🧩 Solve | Approach problems with curiosity. |
+| 🔄 Improve | Learn from mistakes and keep growing. |
+| 🚀 Create | Build useful things that make a difference. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00D4FF,35:512DA8,70:7B2FF7,100:090979&section=footer&animation=fadeIn" width="100%" />
+</div>
 
-### Thanks for exploring my world! 💜
+---
 
-**BUILD • LEARN • INNOVATE • REPEAT**
+<!-- CONNECT -->
+
+<h2 align="center">✦ LET'S CONNECT</h2>
+
+<p align="center">
+  I'm always interested in learning, sharing ideas, exploring technologies, and collaborating on meaningful software projects.
+</p>
+
+<div align="center">
+
+<a href="https://github.com/nugusamulatu67-ux">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ANIMATED FOOTER -->
+
+<div align="center">
+
+<h3>Thanks for visiting my GitHub profile! 💜</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Learn+Deeply.+Build+Fearlessly.;Code+is+not+just+syntax%2C+it's+problem+solving.;The+journey+of+1000+projects+starts+with+one!" alt="Animated closing message"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FF7,100:090979&height=150&section=footer&animation=fadeIn"/>
+
+**© Nugusa Mulatu | Built with curiosity, creativity, and code.**
 
 </div>
